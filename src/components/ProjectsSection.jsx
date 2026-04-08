@@ -7,11 +7,11 @@ const meusProjetos = [
     links: [
       {
         label: "Ver projeto",
-        url: "https://lio-sudo.github.io/meu-portifolio-html-css-js/#projetos",
+        url: "https://llm-alt.github.io/portfolio/",
       },
       {
         label: "Ver repositório",
-        url: "https://github.com/lio-sudo/meu-portifolio-html-css-js",
+        url: "https://github.com/llm-alt/portfolio",
       },
     ],
   },
@@ -23,11 +23,11 @@ const meusProjetos = [
     links: [
       {
         label: "Ver projeto",
-        url: "https://lio-sudo.github.io/portfolio-com-react/",
+        url: "https://portfolio-react-dusky-five.vercel.app/",
       },
       {
         label: "Ver repositório",
-        url: "https://github.com/lio-sudo/portfolio-com-react",
+        url: "https://github.com/llm-alt/portfolio-react",
       },
     ],
   },
